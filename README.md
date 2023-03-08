@@ -1,6 +1,6 @@
-<div align =center>
 ## 안녕하세요 이승헌 입니다.  👋
 **Tech stack**
+<div align =center>
 
   ![React Badge](https://img.shields.io/badge/react-00ADD8?style=flat-square&logo=react&logoColor=white)
   ![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
