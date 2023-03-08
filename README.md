@@ -13,3 +13,14 @@
   ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
   ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
+<div align = center>
+<table><tr><td valign="top" width="50%">
+  
+  <img src = "https://github-readme-stats.vercel.app/api?username=jfmam&show_icons=true&hide_border=true" align="left" style = "width: 100%"/>
+  
+  </td><td valign="top" width="50%">
+
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jfmam&layout=compact&hide_border=true" align="left" style = "width: 100%"/>
+
+</td></tr></table>  
+</div>
