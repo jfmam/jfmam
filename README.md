@@ -1,4 +1,5 @@
 ## 안녕하세요 이승헌 입니다.  👋
+**Tech stack**
   ![React Badge](https://img.shields.io/badge/react-00ADD8?style=flat-square&logo=react&logoColor=white)
   ![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
   ![TypeScript Badge](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -12,7 +13,7 @@
   ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
   ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
   ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
-
+<br/>
 <div align = center>
 <table><tr><td valign="top" width="50%">
   
